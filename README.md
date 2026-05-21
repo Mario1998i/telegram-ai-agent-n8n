@@ -44,7 +44,7 @@ https://www.loom.com/share/f27217287113440faa7d72e50945c7b6
 
 Screenshots
 
-[Workflow Screenshot] (screenshots/workflow-overview.png)
+![Workflow Screenshot](screenshots/workflow-overview.png)
 
 
 Project Goal
